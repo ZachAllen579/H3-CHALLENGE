@@ -88,6 +88,13 @@ header {
   cursor: pointer;
 }
 
+.checkBoxes{
+  display: flex;
+  flex-direction: column ;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
 button[disabled] {
   cursor: default;
   background: #c0c7cf;
